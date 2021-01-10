@@ -1,0 +1,44 @@
+
+
+
+.fundo{
+
+  background-image: url('imagem/fundo.png');
+   font:16px Arial, Helvertica, sans-serif;
+    width: 900px;
+
+}
+
+  
+
+
+  #menu{
+     border: 1px solid ;
+      padding: 16px;
+      color: grey;
+  size: 1.5em;
+
+  }
+
+a{
+
+color: #4b566a;
+text-decoration: none;
+padding: 10px;
+
+}
+
+
+ #texto{
+
+padding: 15px;
+background-color: #e8e8d9;
+
+
+ }
+
+ .centralizado{
+
+
+ 	text-align: center;
+ }
